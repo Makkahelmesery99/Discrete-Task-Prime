@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime", "Prime.csproj", "{82A57E72-C247-4399-81B1-DA144C1BF7FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82A57E72-C247-4399-81B1-DA144C1BF7FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A57E72-C247-4399-81B1-DA144C1BF7FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A57E72-C247-4399-81B1-DA144C1BF7FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A57E72-C247-4399-81B1-DA144C1BF7FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD28C53B-E2B0-4A0A-81B2-2FE1BE7D801F}
+	EndGlobalSection
+EndGlobal
